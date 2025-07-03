@@ -1,3 +1,7 @@
+### Run instructions
+Run file train_online_submod_sl4_gradbatch.py. 
+Remember to change to proper config files before training.
+
 ### Key Papers on Data Subset Selection
 
 #### GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training
